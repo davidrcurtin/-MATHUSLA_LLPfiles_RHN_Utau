@@ -26,6 +26,8 @@ AVAILABLE LLP MASSES:
 
 The easiest way to get a list of the available mN values in each benchmark model is to look at the numerical suffixes of the RHN_Umu_LLPweight4vectorWZlist_mN_YYY files. These production modes are available for all considered mN, and hence these files are always present for all considered mN. 
 
+Note: the WZ production mode files go up to 5.7 GeV, higher than the other modes. The Utau lifetime table and the decay files are also extended in mass range for this model. 
+
 
 
 
