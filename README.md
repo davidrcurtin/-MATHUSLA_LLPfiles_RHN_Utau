@@ -124,7 +124,7 @@ Note: The precise N branching fractions in the ~ 0.5 -  2 GeV mN window are subj
 Note: these decay files INCLUDE the invisible decays, e.g. decays to only active neutrinos or only pi0s. Therefore, if you feed these files directly to the LLP gun, you will NOT have to include any Br(vis) renormalization factor in the final number of observed LLP events. For computational efficiency, you might make versions of these files that only include the decays with charged final states: in that case, adjust all the weights down by Br(vis), the fraction of decays with charged final states.
 
 
-USAGE FOR MATHUSLA GEANT SIMULATIONS
+USAGE FOR GEANT SIMULATIONS
 =======================================
 
 Select some LLP mass mN to study, say mN = 3.08517 GeV. 
